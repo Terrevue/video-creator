@@ -1,0 +1,49 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+
+# Audio files
+*.mp3
+
+# Python virtual environment
+.venv/
+venv/
+*.pyc
+__pycache__/
+
+# Output directories
+output/
+output_compressed/
+output_uncompressed/
+output_test/
+test_output/
+test_output_compressed/
+bg_enhanced/
+
+# Test directories
+test_bg/
+test_mp3/
+
+# Mac OS
+.DS_Store
+
+# Backup files
+*.backup
+*.backup2
+video creator backup/
+
+# Adobe files
+*.aep
+Adobe After Effects Auto-Save/
+
+# Temp files
+*.sb-*
+*.rtf
+*.srt
+*.txt
+!README.md
+
+# Other
+gs/
+Original BGs/
